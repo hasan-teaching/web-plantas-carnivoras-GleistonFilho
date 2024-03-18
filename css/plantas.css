@@ -1,0 +1,36 @@
+h1, h2 {
+	color: limegreen;
+	font-family: "Times New Roman";
+	size: 28px;
+}
+
+h2 {
+	size: 24px;
+}
+
+img {
+	border: solid limegreen; 4px;
+}
+
+body {
+	font-family: "Arial";
+	background-image: url(../imagens/fundo.png);
+}
+
+blockquote, q {
+	font-style: italic;
+}
+
+table, th, td {
+	text-align: center;
+	border: solid silver 2px;
+	padding: 5px;
+}
+
+
+table {
+  border-collapse: collapse;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
